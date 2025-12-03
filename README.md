@@ -1,5 +1,5 @@
 # marktine-assessment
-*To run application:
+* To run application:
 . python -m venv .venv
 .venv\Scripts\activate
 pip install -r "C:\Users\yuvar\Downloads\marktine-assessment-main\marktine-assessment-main\requirements.txt"
