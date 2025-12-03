@@ -1,5 +1,6 @@
 # marktine-assessment
 * To run application:
+- git clone https://github.com/yuvarajusaikumar/Calendly-integration-assessment.git
 - python -m venv .venv
 - .venv\Scripts\activate
 - pip install -r "C:\Users\yuvar\Downloads\marktine-assessment-main\marktine-assessment-main\requirements.txt"
